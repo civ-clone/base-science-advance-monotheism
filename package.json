@@ -13,7 +13,8 @@
   "files": [
     "Monotheism.js",
     "Monotheism.d.ts",
-    "Monotheism.js.map"
+    "Monotheism.js.map",
+    "Monotheism.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
